@@ -1,12 +1,6 @@
   {
     "orderDTO": {
       "createdDate": "19-06-2019 03:56:35",
-      "updatedDate": "19-06-2019 04:27:35",     
-      "biayaItems": [
-        {
-          "biayaType": "BTBBNKB",
-          "biayaValue": 4311000
-        }
-      ]
+      "updatedDate": "19-06-2019 04:27:35"
     }
   }
